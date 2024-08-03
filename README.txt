@@ -33,7 +33,10 @@ To run the website locally, follow these steps:
 	2. Navigate to the project directory: cd MyWebsite
 
 	3. Open index.html in your preferred web browser.
+	
+	Or
 
+	Access direct to custome domain: https://truongnguyendata.live/
 Usage
 	Online: You can visit the live version of the website at .
 	Locally: Open index.html in your web browser after following the installation steps.
